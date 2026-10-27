@@ -80,23 +80,29 @@ I live at the intersection of **data** and **the web**. On one side, I explore d
 
 ## 📂 Featured Projects
 
-### ⭐ Highlight: [Arabic Fake News Detection](https://github.com/israakhalil/ArabicFake_News)
+### ⭐ Highlight: [Madrasa — School Management System](https://github.com/israakhalil/Madrasa)
 
-> An NLP project that tackles misinformation in Arabic media by classifying news articles as **real** or **fake** — addressing the unique challenges of Arabic text such as rich morphology, dialects, and diacritics.
+> Full-stack platform for managing secondary-school student affairs: students, classes, absences, delays, leaves, disciplinary violations and role-based permissions — with an Arabic (RTL) / English UI and Hijri date entry.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-0E75B6) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue%203-4FC08D?logo=vuedotjs&logoColor=white) ![PrimeVue](https://img.shields.io/badge/-PrimeVue-41B883) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+### ⭐ Highlight: [Arabic Fake News Dataset](https://github.com/israakhalil/ArabicFake_News)
+
+> A dataset of ~4,000 Arabic news claims collected from three fact-checking platforms (Akeed, Fatabyyano, Misbar) and labelled by their verdicts — built for research on Arabic misinformation detection.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-Arabic%20NLP-0E75B6) ![Dataset](https://img.shields.io/badge/-Dataset-6E40C9)
 
 ### 🗂️ More Projects
 
-<!-- New projects will be added here -->
-
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| 📚 [**Library Management**](https://github.com/israakhalil/library-management) | Multi-language, role-based library system with Algolia full-text search, RESTful API, image cropping & compression, GitHub login, CSV import, newsletter and reCAPTCHA. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Algolia](https://img.shields.io/badge/-Algolia-003DFF?logo=algolia&logoColor=white) |
-| 🏫 [**School Management System**](https://github.com/israakhalil/school-management-system) | A clean RESTful API for managing a school's students, teachers, and classes. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| 📝 [**Paper Title Prediction**](https://github.com/israakhalil/Prediction-of-title-paper-Seq2Seq-Attention-Lay) | Generates research paper titles using a Seq2Seq model with an attention layer. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
-| 🖼️ [**Google Image Classification**](https://github.com/israakhalil/Google-Image-Classification-) | Image classification using the Xception deep learning architecture. | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| 🕷️ [**Image Scraper with Scrapy**](https://github.com/israakhalil/Download-Images-using-Scrapy-and-Python) | Downloads images at scale with a custom Scrapy image pipeline. | ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 🗓️ **Meeting Management System** *(freelance · private)* | Frontend developer for a meeting-lifecycle platform — agendas, minutes, decisions, tasks, correspondence and reporting — built for Web Cam Technology. Source code is proprietary. | ![Vue.js](https://img.shields.io/badge/-Vue%203-4FC08D?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
+| 🛒 [**Storefront API**](https://github.com/israakhalil/storefront) | E-commerce REST API: products, collections, orders, carts, generic tags and likes. | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-A30000) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| 🕷️ [**NCAR Documents Scraper**](https://github.com/israakhalil/ncarGov-scraper) | Paginates the Saudi National Archives public API (~400 pages) to collect Arabic document metadata. | ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 📝 [**Paper Title Generation**](https://github.com/israakhalil/paper-title-generation-seq2seq) | Generates research paper titles from abstracts using a Seq2Seq LSTM with Bahdanau attention. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
+| 🖼️ [**Google Image Classification**](https://github.com/israakhalil/google-image-classification) | Classifies images into 4 categories with transfer learning on Xception. | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 🛍️ [**React Storefront UI**](https://github.com/israakhalil/Ecommerce) | Product catalogue and product details pages with routing. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| 🕸️ [**Image Scraper with Scrapy**](https://github.com/israakhalil/Download-Images-using-Scrapy-and-Python) | Downloads images with a custom Scrapy image pipeline. | ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ---
 
