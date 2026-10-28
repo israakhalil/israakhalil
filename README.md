@@ -83,11 +83,11 @@ I live at the intersection of **data** and **the web**. On one side, I explore d
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue%203-4FC08D?logo=vuedotjs&logoColor=white) ![PrimeVue](https://img.shields.io/badge/-PrimeVue-41B883) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### ⭐ Highlight: [Arabic Fake News Dataset](https://github.com/israakhalil/ArabicFake_News)
+### ⭐ Highlight: [Arabic Fake News Detection](https://github.com/motazsaad/Arabic-Fakenews) *(main contributor)*
 
-> A dataset of ~4,000 Arabic news claims collected from three fact-checking platforms (Akeed, Fatabyyano, Misbar) and labelled by their verdicts — built for research on Arabic misinformation detection.
+> Research project on detecting Arabic misinformation: scrapers for three Arabic fact-checking platforms (Akeed, Fatabyyano, Misbar), a labelled corpus of ~4,000 news claims, and fake-news classification models built on **AraBERT**. The collected data is also published separately as the [Arabic Fake News Dataset](https://github.com/israakhalil/ArabicFake_News).
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-Arabic%20NLP-0E75B6) ![Dataset](https://img.shields.io/badge/-Dataset-6E40C9)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-Arabic%20NLP-0E75B6) ![AraBERT](https://img.shields.io/badge/-AraBERT-FFD21E?logo=huggingface&logoColor=black) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Web%20Scraping-60A839?logo=scrapy&logoColor=white)
 
 ### 🗂️ More Projects
 
